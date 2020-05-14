@@ -20,6 +20,9 @@ All the FREE learning resources in one place. These resources are strictly recom
 - [React JS Projects](https://www.youtube.com/watch?v=fxMSrgfsXj8&list=PL0JqkD3WB5bZ_27wAfCGTNd2Tn5BBnqdd)
 
 ## Backend Development
+- [Node JS API Development for Beginners](https://www.udemy.com/course/node-js-api-tutorial/)
+- [The Complete NestJS](https://www.udemy.com/course/the-complete-nestjs-developer-enterprise-nodejs-framework/)
+- [Learn MongoDB for Node.js](https://www.udemy.com/course/mongoosejs-essentials/)
 
 ## Mobile Development
 
